@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 75,
+    "supported_formats": [34, 75],
+    "description": "Reduces the fire height when burning!"
+  }
+}
