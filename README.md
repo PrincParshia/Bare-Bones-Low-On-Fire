@@ -1,5 +1,5 @@
 [![CurseForge](https://img.shields.io/badge/CurseForge-0?style=for-the-badge&logo=curseforge&color=black)](https://www.curseforge.com/minecraft/texture-packs/bare-bones-low-on-fire)
-[![Modrinth](https://img.shields.io/badge/Modrinth-0?style=for-the-badge&logo=modrinth&color=grey)](https://modrinth.com/resourcepack/bare-bones-low-on-fires)
+[![Modrinth](https://img.shields.io/badge/Modrinth-0?style=for-the-badge&logo=modrinth&color=grey)](https://modrinth.com/resourcepack/bare-bones-low-on-fire)
 
 ---
 ## 📗 DESCRIPTION
