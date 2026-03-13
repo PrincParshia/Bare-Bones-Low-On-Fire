@@ -9,8 +9,4 @@ This is a resource pack for the Bare Bones texture pack that lowers the height o
 ---
 | **On Fire** | **Fire** |
 |---|---|
-| ![](https://raw.githubusercontent.com/PrincParshia/Bare-Bones-Low-On-Fire/refs/heads/assets/on-fire.png) | ![](https://raw.githubusercontent.com/PrincParshia/Bare-Bones-Low-On-Fire/refs/heads/assets/fire.png) |
-
-## 📜 CREDITS
-
-> This pack is based on the pack [Low On Fire](https://modrinth.com/resourcepack/low-on-fire), redesigned in the Bare Bones style with simplified textures to match the Bare Bones aesthetic. All credit for the original property files concept goes to **Haikis**.
+| ![](https://raw.githubusercontent.com/PrincParshia/Bare-Bones-Low-On-Fire/refs/heads/assets/on-fire-[java].png) | ![](https://raw.githubusercontent.com/PrincParshia/Bare-Bones-Low-On-Fire/refs/heads/assets/fire-[java].png) |
