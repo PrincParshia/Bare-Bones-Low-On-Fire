@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "metadata": {
+    		"authors": [ "PrincParshia" ]
+    },
+    "header": {
+    		"name": "Bare Bones - Low Fire",
+        "description": "Reduces the fire height when burning!",
+        "uuid": "d7e4e714-da15-4bc0-9b98-591e9099ebf8",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 21, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "b2a0398d-6fde-4135-be2d-ba30cd784c9b",
+            "version": [1, 0, 0]
+        }
+    ]
+}
